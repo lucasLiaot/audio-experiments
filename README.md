@@ -1,7 +1,14 @@
-echo "# audio-experiments" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/lucasLiaot/audio-experiments.git
-git push -u origin main
+md
+# Audio Experiments
+
+This repository contains small experiments and studies related to audio engineering, sound design and creative audio processing.
+
+## Focus Areas
+- Voice processing experiments
+- Sound design sketches
+- Audio analysis and manipulation concepts
+- Creative exploration of audio technologies
+
+## Philosophy
+I treat audio as both an engineering discipline and a creative medium.  
+These experiments represent my ongoing exploration of sound, emotion and technology.
