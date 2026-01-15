@@ -1,7 +1,7 @@
 md
 # Audio Experiments
 
-This repository contains small experiments and studies related to audio engineering, sound design and creative audio processing.
+This repository contains small fun experiments and studies related to audio engineering, sound design and creative audio processing.
 
 ## Focus Areas
 - Voice processing experiments
