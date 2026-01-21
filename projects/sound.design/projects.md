@@ -1,4 +1,4 @@
-x## Animated Game Video - Tales of Bilgewater (SOUND REMAKE) – Full Sound Design & Audio Production
+## Animated Game Video - Tales of Bilgewater (SOUND REMAKE) – Full Sound Design & Audio Production
 
 This project showcases my complete sound design and audio production work for an animated game video. I was responsible for **every aspect of the audio**, from the initial concept to the final mix, crafting a cohesive and immersive sonic experience that enhances the visual storytelling.
 
